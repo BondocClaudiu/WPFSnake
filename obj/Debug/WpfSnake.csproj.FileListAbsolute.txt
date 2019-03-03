@@ -13,3 +13,4 @@ H:\Proiecte VS\C# Basics\WpfSnake\WpfSnake\obj\Debug\WpfSnake.csproj.GenerateRes
 H:\Proiecte VS\C# Basics\WpfSnake\WpfSnake\obj\Debug\WpfSnake.csproj.CoreCompileInputs.cache
 H:\Proiecte VS\C# Basics\WpfSnake\WpfSnake\obj\Debug\WpfSnake.exe
 H:\Proiecte VS\C# Basics\WpfSnake\WpfSnake\obj\Debug\WpfSnake.pdb
+H:\Proiecte VS\C# Basics\WpfSnake\WpfSnake\obj\Debug\WpfSnake_Content.g.cs

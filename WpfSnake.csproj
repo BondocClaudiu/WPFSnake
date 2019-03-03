@@ -95,19 +95,29 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\snake.png" />
+    <Resource Include="Images\snake.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\SnakeHeadDown.png" />
-    <Resource Include="Resources\SnakeHeadLeft.png" />
-    <Resource Include="Resources\SnakeHeadRight.png" />
-    <Resource Include="Resources\SnakeHeadUp.png" />
+    <Resource Include="Images\SnakeHeadDown.png" />
+    <Resource Include="Images\SnakeHeadLeft.png" />
+    <Resource Include="Images\SnakeHeadRight.png" />
+    <Resource Include="Images\SnakeHeadUp.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\SnakeHeadDown.bmp" />
-    <Resource Include="Resources\SnakeHeadLeft.bmp" />
-    <Resource Include="Resources\SnakeHeadRight.bmp" />
-    <Resource Include="Resources\SnakeHeadUp.bmp" />
+    <Resource Include="Images\SnakeHeadDown.bmp" />
+    <Resource Include="Images\SnakeHeadLeft.bmp" />
+    <Resource Include="Images\SnakeHeadRight.bmp" />
+    <Resource Include="Images\SnakeHeadUp.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Audio\dead.wav" />
+    <Content Include="Audio\down.wav" />
+    <Content Include="Audio\eat.wav" />
+    <Content Include="Audio\left.wav" />
+    <Content Include="Audio\pause.wav" />
+    <Content Include="Audio\right.wav" />
+    <Content Include="Audio\up.wav" />
+    <Resource Include="Images\background.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
